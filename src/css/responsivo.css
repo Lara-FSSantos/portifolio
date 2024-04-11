@@ -39,3 +39,10 @@
         padding: 30px;
     }
 }
+
+@media(max-width:620px) {
+    .projetos .container-projetos{
+        align-items: center;
+        flex-direction: column;
+    }
+}
